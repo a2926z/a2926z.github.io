@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a2926z.github.io/chris_website/sitemap.xml
